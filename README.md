@@ -48,5 +48,4 @@ npm run build
 
 ## 反馈、交流钉钉群
 
-![info](http://newgateway.gitee.io/my/img/dingtalk.png)
-
+![输入图片说明](1655290016051.jpg)
